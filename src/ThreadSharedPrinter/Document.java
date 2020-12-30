@@ -3,7 +3,7 @@ package ThreadSharedPrinter;
 public class Document {
     private final String userID ;
     private final String documentName ;
-    private final int    numberOfPages ;
+    private final int numberOfPages ;
 
 
     public Document( String UID, String name, int length )

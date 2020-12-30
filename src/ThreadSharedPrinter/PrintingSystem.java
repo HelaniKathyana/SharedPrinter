@@ -1,6 +1,6 @@
 package ThreadSharedPrinter;
 
-public class Main {
+public class PrintingSystem {
 
     public static void main(String[] args) {
 	// write your code here
